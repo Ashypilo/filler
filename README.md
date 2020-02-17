@@ -1,4 +1,4 @@
-Filler is a game, where two players / algorithm are fighting on a map.
+<b>Filler is a game, where two players / algorithm are fighting on a map.</b>
 
 A virtual machine organizes the game :
 
@@ -12,10 +12,14 @@ The game appears on the standard input.
 
 The aim of the game is to put more pieces on the map than the ennemy.
 
-Run:
+<b>Installation:</b>
+
+make
+
+<b>Run:</b>
 
 ./filler_vm -f [map] -p1 [player1] -p2 [player2]
 
-Example:
+<b>Example:</b>
 
 ./filler_vm -p1 ../ashypilo.filler -p2 players/abanlin.filler -v -f maps/map00
