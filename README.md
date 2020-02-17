@@ -18,7 +18,7 @@ make
 
 <b>Run:</b>
 
-./filler_vm is in the folder ressources-filler.
+"./filler_vm" - is in the folder ressources-filler.
 
 ./filler_vm -f [map] -p1 [player1] -p2 [player2]
 
