@@ -15,3 +15,6 @@ The aim of the game is to put more pieces on the map than the ennemy.
 Run:
 
 ./filler_vm -f [map] -p1 [player1] -p2 [player2]
+
+Example:
+./filler_vm -p1 ../ashypilo.filler -p2 players/abanlin.filler -v -f maps/map00
