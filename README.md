@@ -12,7 +12,6 @@ The game appears on the standard input.
 
 The aim of the game is to put more pieces on the map than the ennemy.
 
-Run
-Standard mode :
+Run:
 
 ./filler_vm -f [map] -p1 [player1] -p2 [player2]
